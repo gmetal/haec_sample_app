@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HaecSample</string>
+    <string name="anonymous_class_listener_button_label">From Anonymous Class</string>
+    <string name="my_click_listener_button_label">From MyClickListener</string>
+    <string name="main_activity_listener_button_label">From MainActivity</string>
+</resources>
